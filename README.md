@@ -5,7 +5,8 @@ Dineout class provides interfaces for:
   1) Setting the price of individual foods
   2) Adding individual fodds to dine out
   3) The current total costs for all the fodds added
-  4) Add discounts on selected food items when a particular amount of foods are purchased
+  4) Add discounts on selected food items when a particular amount of foods are purchased.
+
 The test cases are as below:
   1) Can create an instance of Dineout class
   2) Can add a food & food price
