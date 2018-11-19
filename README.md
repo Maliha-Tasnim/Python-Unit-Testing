@@ -13,3 +13,5 @@ The test cases are as below:
   3) Can calculate the current total
   4) Can add discount rules
   5) Exception is thrown for food item added without a price
+  6) Can add multiple food items and get current total
+  7) Can apply discount rules to the total
