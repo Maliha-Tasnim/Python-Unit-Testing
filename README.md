@@ -1,10 +1,10 @@
 # Python-Unit-Testing
 A unit testing project on python which demonstrates different test cases for dineout services of a restaurant.
-Dineout class that maintains a list of foods that are being dined out for customers.
+Dineout class maintains a list of foods that are being dined out for customers.
 Dineout class provides interfaces for:
   1) Setting the price of individual foods
   2) Adding individual fodds to dine out
-  3) The current total costs for all the fodds added
+  3) The current total costs for all the foods added
   4) Add discounts on selected food items when a particular amount of foods are purchased.
 
 The test cases are as below:
